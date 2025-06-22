@@ -1,0 +1,43 @@
+.intro {
+    background-color: gray;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+.menu {
+    background-color: lightgray ;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    t
+}
+.mission {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.fpv {
+    background-color: lightgreen;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: darkblue;
+    ;
+}
+h3 {
+    color: darkgreen;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: mediumaquamarine;
+}
+h1, h2, h3 {
+    text-align: center;
+}
